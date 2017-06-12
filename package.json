@@ -1,0 +1,26 @@
+{
+  "name": "crud_example",
+  "version": "1.0.0",
+  "description": "A crud example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenwarton/crud_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenwarton/crud_example/issues"
+  },
+  "homepage": "https://github.com/stephenwarton/crud_example#readme",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "knex": "^0.13.0",
+    "pg": "^6.2.4"
+  }
+}
